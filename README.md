@@ -1,1 +1,0 @@
-# Joteo calculator test
