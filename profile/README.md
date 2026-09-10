@@ -177,4 +177,4 @@ And the list keeps growing — new tools and new subjects go live at joteocalcul
 
 ---
 
-*Counts reflect published tools and categories on joteocalculator.com at time of writing. — [joteocalculator.com](https://joteocalculator.com/)*
+*Counts reflect published tools and categories on joteocalculator.com at time of writing.
