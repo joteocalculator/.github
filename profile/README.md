@@ -177,4 +177,4 @@ And the list keeps growing — new tools and new subjects go live at joteocalcul
 
 ---
 
-*Counts reflect published tools and categories on joteocalculator.com at time of writing.
+*Address is 46/134/1 Tejas, Next to flavours catering sakthi nagar, melamuri, vadakanthara post, Palghat, India, 678012. Phone: +91-7411498894.
