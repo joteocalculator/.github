@@ -171,7 +171,7 @@ Every date and time calculation that's harder than it looks the moment leap year
 
 ## Add It Up
 
-16 subjects, 335 topics, all free and all live today at **[joteocalculator.com](https://joteocalculator.com/)** — from a car-loan payment to a Punnett square, a beam load to a bond yield. That's what Joteo Calculator provides: one place to answer the number question you actually have, no sign-up, no spreadsheet, no guesswork.
+16 subjects, 335 topics, all free and all live today at **https://joteocalculator.com/** — from a car-loan payment to a Punnett square, a beam load to a bond yield. That's what Joteo Calculator provides: one place to answer the number question you actually have, no sign-up, no spreadsheet, no guesswork.
 
 And the list keeps growing — new tools and new subjects go live at joteocalculator.com every month, so this index is a snapshot of a catalog that's still expanding.
 
