@@ -41,7 +41,7 @@ From a car payment to a Punnett square, a beam load to a bond yield — every do
 
 ### 01. Automotive Calculators
 
-**325 tools · 16 subcategories** — https://joteocalculator.com/automotive-calculators/
+**325 tools · 16 subcategories** — joteocalculator.com/automotive-calculators/
 
 Everything between the showroom and the strip. **Car Buying & Finance** covers the Auto Loan and Lease vs Buy calculators that tell you your real out-the-door price; **Maintenance & Fluids** answers the "how many quarts?" question for oil, coolant, and transmission fluid. Performance owners get quarter-mile, trap-speed, and horsepower-to-torque conversions under **Drag Racing & Motorsport** and **Engine Performance & Power**, while **Electric Vehicles (EV)** has grown into its own specialty — charging time, battery degradation, EV-vs-gas cost. Off-roaders, tire shoppers, and motorcycle owners each get a dedicated aisle too.
 
