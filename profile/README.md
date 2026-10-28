@@ -41,7 +41,7 @@ From a car payment to a Punnett square, a beam load to a bond yield — every do
 
 ### 01. Automotive Calculators
 
-**325 tools · 16 subcategories** — joteocalculator.com/automotive-calculators/
+**325 tools · 16 subcategories**
 
 Everything between the showroom and the strip. **Car Buying & Finance** covers the Auto Loan and Lease vs Buy calculators that tell you your real out-the-door price; **Maintenance & Fluids** answers the "how many quarts?" question for oil, coolant, and transmission fluid. Performance owners get quarter-mile, trap-speed, and horsepower-to-torque conversions under **Drag Racing & Motorsport** and **Engine Performance & Power**, while **Electric Vehicles (EV)** has grown into its own specialty — charging time, battery degradation, EV-vs-gas cost. Off-roaders, tire shoppers, and motorcycle owners each get a dedicated aisle too.
 
@@ -49,7 +49,7 @@ Everything between the showroom and the strip. **Car Buying & Finance** covers t
 
 ### 02. Biology Calculators
 
-**367 tools · 27 subcategories** — https://joteocalculator.com/biology-calculators/
+**367 tools · 27 subcategories**
 
 The largest life-science spread on the site, and the one with the most subcategories of any parent. **Genetics & Heredity** runs Punnett squares and Hardy-Weinberg equilibrium; **Solution & Lab Preparation** handles dilution and buffer-recipe math for anyone actually standing at a bench. **Biostatistics** and **Bioinformatics & Sequence Analysis** serve researchers running t-tests and BLAST E-values, while **Pharmacology & Toxicology** and **Human Biology & Physiology** cover drug half-life and body surface area. Then it widens out to whole ecosystems — **Ecology & Population Biology**, **Marine & Aquatic Biology** — before narrowing back down to **Cat Care** and **Dog Care** for anyone who just wants a life-expectancy or BMI figure for their pet.
 
@@ -57,7 +57,7 @@ The largest life-science spread on the site, and the one with the most subcatego
 
 ### 03. Chemistry Calculators
 
-**252 tools · 20 subcategories** — https://joteocalculator.com/chemistry-calculators/
+**252 tools · 20 subcategories**
 
 Built to sit next to the textbook, not replace it. **Stoichiometry** converts grams to moles on the spot; **Acid-Base & pH Chemistry** runs pH, pKa, and Ka/Kb; **Chemical Equilibrium** and **Electrochemistry** solve for Kc, Kp, cell EMF, and the Nernst equation. Engineers get **Chemical Engineering** for mass and energy balances, distillation columns, and heat exchangers, and **Nuclear Chemistry** covers binding energy and decay chains for the radioactive-half-life side of the subject. **Chemistry Unit Conversions** quietly solves the thing that trips up more students than the chemistry itself: switching units mid-problem.
 
@@ -65,7 +65,7 @@ Built to sit next to the textbook, not replace it. **Stoichiometry** converts gr
 
 ### 04. Construction Calculators
 
-**181 tools · 19 subcategories** — https://joteocalculator.com/construction-calculators/
+**181 tools · 19 subcategories**
 
 Job-site math where a miscalculation costs real material. **Concrete & Masonry** works out yards and bags for a slab, footing, or block wall; **Roofing** and **Stairs** handle pitch, truss, and code-compliant riser-tread dimensions; **Carpentry & Framing** and **Decking** size lumber and board material before a single cut is made. Outside the house, **Driveway & Pavement**, **Landscaping**, and **Fencing** estimate gravel, topsoil, and post spacing, while **Plumbing & HVAC** works out pipe flow, GPM, and AC tonnage. **Measurement & Conversion** exists purely for the feet-and-inches, board-footage headaches that come up on every single job.
 
@@ -73,7 +73,7 @@ Job-site math where a miscalculation costs real material. **Concrete & Masonry**
 
 ### 05. Ecology Calculators
 
-**249 tools · 14 subcategories** — https://joteocalculator.com/ecology-calculators/
+**249 tools · 14 subcategories**
 
 Turns "is this actually better for the planet?" into a number instead of a feeling. **Carbon Footprint & Emissions** and **Ecological Footprint** cover household, flight, and lifestyle footprints against the planet's biocapacity; **Water Footprint & Conservation** tracks everything from a shower to a bottle of water. **Climate Science & Modeling** runs radiative forcing and sea-level-rise calculators for the research side, and **Sustainable Agriculture** gives farmers cover-crop and tillage comparisons. **Environmental Policy & ESG** closes the loop for anyone modeling carbon tax, emissions trading, or green-bond impact at a company level.
 
@@ -81,7 +81,7 @@ Turns "is this actually better for the planet?" into a number instead of a feeli
 
 ### 06. Education & Academic Calculators
 
-**195 tools · 12 subcategories** — https://joteocalculator.com/education-academic-calculators/
+**195 tools · 12 subcategories**
 
 Covers school from kindergarten enrollment to a dissertation defense. **GPA Calculators** run standard, weighted, and unweighted scales; **Standardized Test & Admissions** handles the SAT, ACT, GRE, and LSAT; **Student Finance & Loans** works out FAFSA estimates and income-driven repayment. **International Education** converts scores across systems — the ATAR, UCAS Tariff Points, India's JEE and GATE ranks — and **Academic Research & Publishing** serves researchers with h-Index and impact-factor calculators. Teachers get their own toolkit under **Classroom & Teacher Tools**, for class averages and attendance rate.
 
@@ -89,7 +89,7 @@ Covers school from kindergarten enrollment to a dissertation defense. **GPA Calc
 
 ### 07. Electrical & Electronics Calculators
 
-**413 tools · 31 subcategories** — https://joteocalculator.com/electrical-electronics-calculators/
+**413 tools · 31 subcategories**
 
 The most subdivided category on the site — 31 subcategories, because a single wrong calculation here can mean a fried component. **Basic Circuit Laws** starts at Ohm's Law and Kirchhoff's Laws; **PCB Design** and **RF & Microwave** go all the way to trace impedance, Smith charts, and the Friis transmission equation. **Power Supply & Regulators**, **Motors & Drives**, and **Three-Phase Systems** serve working electricians and engineers, while **Electrical Safety & Protection** runs NEC wire sizing and arc-flash calculations for anyone wiring a building. Hobbyists on a breadboard and engineers laying out a board reach for the same resistor and capacitor tools — just at different precision.
 
@@ -97,7 +97,7 @@ The most subdivided category on the site — 31 subcategories, because a single 
 
 ### 08. Everyday Life Calculators
 
-**280 tools · 17 subcategories** — https://joteocalculator.com/everyday-life-calculators/
+**280 tools · 17 subcategories**
 
 The catch-all for math nobody teaches you but everybody needs. **Baby & Parenting** covers diaper counts and breastmilk storage; **Clothing, Fashion & Sewing** converts dress, jacket, and hat sizes across regions; **Technology & Gadgets** works out download time and internet speed. **Expiration & Product Life** tells you when to actually replace an oil filter or a battery, and **Unit Conversions (Daily Life)** handles the MPG-to-L/100km, cm-to-feet swaps that come up mid-recipe or mid-roadtrip. If a question doesn't obviously belong to a subject, it's very likely filed here.
 
@@ -105,7 +105,7 @@ The catch-all for math nobody teaches you but everybody needs. **Baby & Parentin
 
 ### 09. Finance Calculators
 
-**307 tools · 25 subcategories** — https://joteocalculator.com/finance-calculators/
+**307 tools · 25 subcategories**
 
 The same formulas a bank or a financial advisor uses, just without the appointment. **Mortgage & Real Estate** and **Loans & Borrowing** cover payment, refinance, and APR math; **Retirement & Pension** runs 401(k), Roth IRA, and Social Security projections. **Investment & Returns** and **Stock Market & Equity** handle ROI, CAGR, and dividend yield, while **Debt Management** compares the snowball and avalanche methods side by side. Business owners get **Business & Accounting** for break-even and valuation, and **Time Value of Money** for present value, NPV, and IRR — the exact tools finance students and analysts already trust.
 
@@ -113,7 +113,7 @@ The same formulas a bank or a financial advisor uses, just without the appointme
 
 ### 10. Food Calculators
 
-**270 tools · 20 subcategories** — https://joteocalculator.com/food-calculators/
+**270 tools · 20 subcategories**
 
 The chemistry and arithmetic of cooking, for people who default to guessing. **Recipe Scaling & Conversion** resizes any recipe up or down; **Baking Calculators** handles baker's percentages and sourdough hydration, where precision actually matters. **Cooking Time & Temperature** tells you exactly how long to cook a turkey by weight, and **Nutrition & Calorie Calculators** plus **Diet-Specific Calculators** cover macros, keto, and low-FODMAP requirements. Professional kitchens lean on **Food Business & Restaurant** for menu pricing and food-cost percentage; home brewers get **Coffee & Tea** and **Drinks & Beverages** for brew ratios and homebrew gravity readings.
 
@@ -121,7 +121,7 @@ The chemistry and arithmetic of cooking, for people who default to guessing. **R
 
 ### 11. Health & Fitness Calculators
 
-**436 tools · 32 subcategories** — https://joteocalculator.com/health-fitness-calculators/
+**436 tools · 32 subcategories**
 
 The second-largest category on the site, spanning everyday tracking and clinical-grade scoring. **BMI & Body Composition**, **Calories & Energy**, and **Macronutrients & Diet** cover the numbers most people actually track. **Running & Jogging**, **Strength Training**, and **Cycling** serve athletes fine-tuning pace and one-rep max, while **Cardiovascular Clinical**, **Kidney & Renal**, and **Pharmacology & Dosing** carry validated risk scores and dosage math used in clinical and nursing settings. **Pregnancy & Fertility** alone runs 34 tools, from ovulation tracking to gestational-age estimates.
 
@@ -129,7 +129,7 @@ The second-largest category on the site, spanning everyday tracking and clinical
 
 ### 12. Math Calculators
 
-**554 tools · 22 subcategories** — https://joteocalculator.com/math-calculators/
+**554 tools · 22 subcategories**
 
 The single largest category on the site — 554 tools, roughly one in every nine across the whole platform — and it scales from a fourth-grade fractions worksheet to a graduate linear-algebra set. **Algebra** (55 tools) and **Arithmetic & Number Theory** cover the everyday load; **Calculus** (41 tools) and **Linear Algebra** (33 tools, matrices included) handle the advanced coursework. **Statistics** and **Probability** alone run 54 and 38 tools respectively. Teachers use it to check answer keys, students to check homework step by step, engineers to reach for the heavier sections without ever leaving the same interface.
 
@@ -137,7 +137,7 @@ The single largest category on the site — 554 tools, roughly one in every nine
 
 ### 13. Physics Calculators
 
-**471 tools · 18 subcategories** — https://joteocalculator.com/physics-calculators/
+**471 tools · 18 subcategories**
 
 Runs from a high-school kinematics problem to relativistic mass-energy equivalence. **Electrical Circuits & Electronics** is the deepest single subcategory here at 62 tools — Ohm's Law, voltage dividers, Wheatstone bridges. **Thermodynamics** (38 tools) covers the Ideal Gas Law and Gibbs Free Energy; **Quantum Mechanics** and **Relativity** handle the de Broglie wavelength and time dilation for the modern-physics side. **Astrophysics** works out escape velocity, Kepler's Third Law, and Schwarzschild radius, while **Machines & Mechanisms** keeps it grounded with gear ratio and bolt-torque tools genuinely useful in a machine shop, not just a classroom.
 
@@ -145,7 +145,7 @@ Runs from a high-school kinematics problem to relativistic mass-energy equivalen
 
 ### 14. Sports Calculators
 
-**198 tools · 22 subcategories** — https://joteocalculator.com/sports-calculators/
+**198 tools · 22 subcategories**
 
 Sabermetric-style analysis for sports that never used to get it. **Baseball** runs ERA, on-base percentage, and WAR; **Basketball** covers effective field-goal and true-shooting percentage; **Soccer/Football** has expected goals and Elo ratings. **Running** and **Weightlifting & Strength** serve individual athletes with pace prediction and one-rep max, and **Team Management & Stats** builds round-robin brackets and strength-of-schedule figures for coaches. **Sports Betting & Fantasy** converts odds and calculates expected value for anyone playing the numbers side of the game.
 
@@ -153,7 +153,7 @@ Sabermetric-style analysis for sports that never used to get it. **Baseball** ru
 
 ### 15. Statistics Calculators
 
-**259 tools · 25 subcategories** — https://joteocalculator.com/statistics-calculators/
+**259 tools · 25 subcategories**
 
 The full toolkit of data analysis, standing apart from Math's own statistics section by going considerably deeper. **Central Tendency** and **Dispersion & Variability** cover mean, median, mode, and standard deviation; **Hypothesis Testing**, **ANOVA**, and **Non-Parametric Tests** handle formal significance testing. **Bayesian Statistics** and **Regression** serve more advanced coursework, and **Time Series & Forecasting** plus **Quality Control** carry the applied, industry-facing side — control charts, forecasting models, sample-size and power calculations for anyone designing a study before collecting a single data point.
 
@@ -161,7 +161,7 @@ The full toolkit of data analysis, standing apart from Math's own statistics sec
 
 ### 16. Time & Date Calculators
 
-**234 tools · 15 subcategories** — https://joteocalculator.com/time-and-date-calculators/
+**234 tools · 15 subcategories**
 
 Every date and time calculation that's harder than it looks the moment leap years or time zones get involved. **Date Duration & Difference** and **Date Add/Subtract & Lookup** cover the core day-counting math; **Age & Birthday** works out exact age down to the second, and **Time Zone & World Clock** handles the cross-timezone scheduling headache. **Calendar Systems & Converters** and **Sun, Moon & Astronomy** cover the less obvious cases — different calendar systems, sunrise and moon-phase timing — while **Work Time & Payroll** and **Timers & Countdowns** handle the two most-searched everyday uses.
 
@@ -171,7 +171,7 @@ Every date and time calculation that's harder than it looks the moment leap year
 
 ## Add It Up
 
-16 subjects, 335 topics, all free and all live today at **https://joteocalculator.com/** — from a car-loan payment to a Punnett square, a beam load to a bond yield. That's what Joteo Calculator provides: one place to answer the number question you actually have, no sign-up, no spreadsheet, no guesswork.
+16 subjects, 335 topics, all free and all live today at **joteocalculator.com** — from a car-loan payment to a Punnett square, a beam load to a bond yield. That's what Joteo Calculator provides: one place to answer the number question you actually have, no sign-up, no spreadsheet, no guesswork.
 
 And the list keeps growing — new tools and new subjects go live at joteocalculator.com every month, so this index is a snapshot of a catalog that's still expanding.
 
